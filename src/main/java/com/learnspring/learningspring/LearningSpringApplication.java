@@ -17,7 +17,7 @@ public class LearningSpringApplication {
 
 	public static void main(String[] args) {
 
-		//To get "Hello world!" on http://localhost:8080/ (like in the HW video):
+		//To get "Hello world!" on http://localhost:8080/ (like in the HW video, runs index.html as a Web App):
 		SpringApplication.run(LearningSpringApplication.class, args);
 
 		//To get "Hello world!" printed in console (as required in Hometask 1.2):
